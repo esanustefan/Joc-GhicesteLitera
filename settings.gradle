@@ -1,0 +1,10 @@
+rootProject.name = 'GhicesteLitereCuPunctaj'
+include 'ClientFX'
+include 'Model'
+include 'Networking'
+include 'Persistance'
+include 'Rest'
+include 'Server'
+include 'Service'
+
+

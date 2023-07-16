@@ -1,0 +1,13 @@
+package org.example.rpcprotocol;
+
+public enum RequestType {
+    GET_POINTS_FOR_CHOSEN_LETTER,
+    GENERATE_RANDOM_CONFIGURATION,
+    GENERATE_RANDOM_LETTER,
+    LOGIN,
+    LOGOUT,
+    ADD_CLASAMENT,
+    GET_CLASAMENTE,
+    NOTIFY_ALL,
+    GET_POINTS
+}

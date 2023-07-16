@@ -1,0 +1,18 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+/ClientFX/build/
+/ClientFX/build/classes/java/main/
+/Model/build/
+/Model/build/classes/java/main/
+/Networking/build/
+/Networking/build/classes/java/main/
+/Persistance/build/
+/Persistance/build/classes/java/main/
+/Rest/build/
+/Rest/build/classes/java/main/
+/Server/build/
+/Server/build/classes/java/main/
+/Service/build/
+/Service/build/classes/java/main/
